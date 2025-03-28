@@ -1,4 +1,4 @@
-let a=['Maruti ignis','Swift','Toyota','hyundai'];
-a.forEach((car)=>{
-    console.log(car);
-});
+let school="HighSchool";
+console.log(school.length);
+console.log(school.toUpperCase());
+console.log(school.toLowerCase());

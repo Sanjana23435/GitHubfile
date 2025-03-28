@@ -1,19 +1,23 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+ <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
   <link rel="stylesheet" href="styles/style.css"/>
     <script src="index.js" defer></script>
- <head><title>My App</title> </head>
-    <body>
-        <h1 style="text-align:center">Counter</h1>
-            <div class="card-counter">
-        <div class="screen" id="dispay"></div>
-        <div class="button">
-            <button id="a1" class="btn" style="background-color:red" onclick="increment()">Increment</button>
-            <button id="a2" class="btn" style="background-color:lightgrey" onclick="reset()">Reset</button>
-            <button id="a3" class="btn" style="background-color:lightgreen" onclick="decrement()">Decrememt</button>
-        </div>
-        </div>
-    </body>
+<script src="index.js" defer></script>
+<title>BMI Calculator</title>
+</head>
+<body>
+  <h1 style="text-align: center">Body Mass Index Calculator</h1>
+<div class="card-bmi">
+<div class="screen" id="result"></div>
+<label for="mass">Mass:</label>
+<input types="number" class="inputs" id="mass" placeholder="Mass in Kilogram"/>
+  <label for="mass">Height :</label>
+<input type="number" class="inputs" id="height" placeholder="Height in cms"/>
+<div class="buttons">
+<button class="btn">Calculate BMI</button>
+</div>
+</div>
+</body>
 </html>

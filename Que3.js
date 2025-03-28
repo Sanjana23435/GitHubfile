@@ -1,9 +1,5 @@
-let myAge=30;
-let yourAge=35;
-if(myAge>yourAge)
+let n=100;
+for(let startingPoint=0;startingPoint<=n;startingPoint++) 
 {
-  console.log("I am  5 years older than you");
-}
-else{
-  console.log("You are 5 years older than me");
+    console.log(startingPoint);
 }

@@ -1,5 +1,6 @@
-var a=51;
-++a;
-++a;
-++a;
-console.log(a);
+let startingPoint=0;
+do{
+    console.log(startingPoint);
+    startingPoint++;
+}
+while(startingPoint<=10)

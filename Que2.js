@@ -1,4 +1,6 @@
-let a=10;
---a;
---a;
-console.log(a);
+let startingPoint=10;
+do{
+    console.log(startingPoint);
+    startingPoint--;
+}
+while(startingPoint>=0)

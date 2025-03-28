@@ -1,2 +1,5 @@
-let a=Math.floor(Math.random() * 10);
-console.log(a);
+for (let i=0; i<=100; i++) {
+if(i%2==1){
+  console.log(i);
+}
+}

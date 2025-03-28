@@ -1,3 +1,5 @@
-let string = "0.28";
-let a = parseFloat(string);
-console.log(a); 
+for (let i=0; i<=100; i++) {
+if(i%2==0){
+  console.log(i);
+}
+}

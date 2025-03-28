@@ -1,27 +1,60 @@
 
+.happy{
+    height:300px;
+    width:350px;
+    position:relative;
+    margin-left:10px;
+    margin-right:10px;
+    display:block;
+    border-radius:10px;
+    border:10px;
+}
 h1{
     color:white;
-    position:relative ;
-    bottom:270px;
-    left:40px;
-}
+    position:relative;
+    bottom:370px;
+    left:20px;
+    margin-top:50px;
+    }
 h2{
-    color:white;
+   color:white;
+    position:relative;
+    bottom:365px;
+    left:20px; 
+    font-size:large ;
+}
+h3{
+    color:grey;
     position:relative ;
-    bottom:265px;
-    left:40px;
+    left:80px;
+    bottom:190px;
+}
+h4{
+    color:grey;
+    position:relative ;
+    left:10px;
+    bottom:190px;
     font-size:15px;
 }
-img{
-    width:340px;
-    height:350px;
-    position:relative;
-    margin-left:20px;
-    border-radius:10px;
-}
 button{
-    position:relative ;
-    bottom:250px;
-    left:40px;
-    border-radius:10px;
+    border-radius:30px;
+    position:relative;
+    bottom:200px;
+    right:110px;
+    
 }
+.janu{
+    position:relative;
+    height:120px;
+    width:120px;
+    bottom:40px;
+    left:130px;
+    border-radius:50%;
+    border:5px solid white;
+}
+.sanju{
+    position:relative;
+    bottom:190px;
+}
+
+

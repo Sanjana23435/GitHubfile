@@ -1,3 +1,9 @@
-let nums = [1,2,3,4,5,6];
-let secLastElement = nums[nums.length - 2];
-console.log(secLastElement);
+let myAge=30;
+let yourAge=35;
+if(myAge>yourAge)
+{
+  console.log("I am  5 years older than you");
+}
+else{
+  console.log("You are 5 years older than me");
+}

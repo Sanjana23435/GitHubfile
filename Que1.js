@@ -1,12 +1,5 @@
-let vegetables=["Tomato","Potato","Brinjal"];
-console.log(vegetables);
-vegetables.push("Ladyfinger");
-console.log(vegetables);
-vegetables.pop();
-console.log(vegetables);
-vegetables.shift();
-console.log(vegetables);
-vegetables.shift();
-console.log(vegetables);
-vegetables.unshift("Capsicum");
-console.log(vegetables);
+var a=51;
+++a;
+++a;
+++a;
+console.log(a);

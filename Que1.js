@@ -1,6 +1,9 @@
-let startingPoint=0;
-do{
-    console.log(startingPoint);
-    startingPoint++;
+function printArray(arr) {
+    for (let i = 0; i < arr.length; i++) {
+        console.log(arr[i]);
+    }
 }
-while(startingPoint<=10)
+
+// Example usage:
+const myArray = [1, 2, 3, 4, 5];
+printArray(myArray);

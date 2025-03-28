@@ -1,60 +1,47 @@
-
-.happy{
-    height:300px;
-    width:350px;
-    position:relative;
-    margin-left:10px;
-    margin-right:10px;
-    display:block;
-    border-radius:10px;
-    border:10px;
+.yo{
+  position:relative;
+  height:300px;
+  width:200px;
+  padding:10px 200px 10px 10px;
+  border:1px solid grey;
+  border-radius:10px;
 }
 h1{
-    color:white;
-    position:relative;
-    bottom:370px;
-    left:20px;
-    margin-top:50px;
-    }
+  left:220px;
+  position:relative;
+  font-size:20px;
+  font-family:cursive;
+  bottom:250px;
+}
 h2{
-   color:white;
-    position:relative;
-    bottom:365px;
-    left:20px; 
-    font-size:large ;
+  left:220px;
+  position:relative;
+  font-size:15px;
+  font-family:cursive;
+  font-weight:1px;
+  bottom:230px;
 }
-h3{
-    color:grey;
-    position:relative ;
-    left:80px;
-    bottom:190px;
+.you{
+  position:relative;
+  height:240px;
+  width:300px;
+  padding:10px 10px 200px 10px ;
+  border:1px solid grey;
+  border-radius:10px;
 }
-h4{
-    color:grey;
-    position:relative ;
-    left:10px;
-    bottom:190px;
-    font-size:15px;
+.to{
+  left:20px;
+  position:relative;
+  font-size:20px;
+  font-family:cursive;
+  font-weight:1px;
+  bottom:200px;
 }
-button{
-    border-radius:30px;
-    position:relative;
-    bottom:200px;
-    right:110px;
-    
+.u{
+  left:20px;
+  position:relative;
+  font-size:15px;
+  font-family:cursive;
+  font-weight:1px;
+  bottom:200px;
 }
-.janu{
-    position:relative;
-    height:120px;
-    width:120px;
-    bottom:40px;
-    left:130px;
-    border-radius:50%;
-    border:5px solid white;
-}
-.sanju{
-    position:relative;
-    bottom:190px;
-}
-
-

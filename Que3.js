@@ -1,3 +1,3 @@
-let string="SCRIPT";
-console.log(string.substring(1,3));
-console.log(string.substr(1,3));
+let nums = [1,2,3,4,5,6];
+let secLastElement = nums[nums.length - 2];
+console.log(secLastElement);

@@ -1,2 +1,12 @@
-let string="Yo,\n What's \t Up \\bro \",How do \' you do";
-console.log(string);
+let vegetables=["Tomato","Potato","Brinjal"];
+console.log(vegetables);
+vegetables.push("Ladyfinger");
+console.log(vegetables);
+vegetables.pop();
+console.log(vegetables);
+vegetables.shift();
+console.log(vegetables);
+vegetables.shift();
+console.log(vegetables);
+vegetables.unshift("Capsicum");
+console.log(vegetables);
